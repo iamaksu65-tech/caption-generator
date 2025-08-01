@@ -84,22 +84,7 @@ SDK:
 💡 Future Improvements
 Export caption as text/image
 
-Add theme switcher
 
-Add language translation
-
-Add character count for platform-specific limits
-
-📸 UI Preview
-Add screenshots or a demo link here if available.
-
-🧑‍💻 Built By
-Akshat & Cherry (Coding Assistant 😇)
-
-📜 License
-MIT License — feel free to use, remix, and share.
-
-Let me know if you want me to include your GitHub username, screenshots, or a demo link next!
 
 
 
