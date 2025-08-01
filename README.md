@@ -86,6 +86,7 @@ Export caption as text/image
 
 Screenshots:
 https://github.com/iamaksu65-tech/caption-generator/blob/367fd740b5166280f3cb9ac4ce06dcd055474b29/Screenshot%20(48).png
+https://github.com/iamaksu65-tech/caption-generator/blob/4cb78c28100ec48e0a632e3a68903e4a42dce5b2/Screenshot%20(49).png
 > 
 
 
